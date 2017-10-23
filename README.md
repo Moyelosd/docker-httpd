@@ -1,2 +1,3 @@
 # docker-httpd
-Apache2 with custom httpd.conf
+
+Base httpd (Apache2) container plus a custom httpd.conf
